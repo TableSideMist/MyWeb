@@ -109,12 +109,14 @@ section{
 .home-content h1{
   font-size: 8rem;
   font-weight: 700;
-  margin-top: 1.5;
+  margin-top: 1.5;s
   line-height: 1;
+  text-wrap: nowrap;
 }
 .home-content h3{
   margin: 1rem 0;
   font-size: 4rem;
+  text-wrap: nowrap;
 }
 .home-content p{
   font-size: 1.5rem;
